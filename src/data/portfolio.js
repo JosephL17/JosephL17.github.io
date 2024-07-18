@@ -11,5 +11,6 @@ export default [
         stack: ['React', 'Tailwind', 'Vite', 'CSS'],
         link: ''
     },
+    
 
 ]
