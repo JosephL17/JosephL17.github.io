@@ -1,1 +1,1 @@
-This is my developer portfolio. It's still a work in progress. The tools I used for this are Vite, React, JavaScript, Tailwind, and Render.com to host it. https://josephl17-github-io.onrender.com/
+This is my developer portfolio. It's still a work in progress. The tools I used for this are Vite, React, JavaScript, Tailwind, and Render.com to host it. https://josephl17.github.io/
