@@ -21,7 +21,7 @@ export default [
         title: 'Netflix Clone',
         imgUrl: './assets/Netflix-Clone.png',
         stack: ['React', 'Tailwind CSS', 'Vite', 'Django', 'PostgreSQL'],
-        link: 'https://josephl17.github.io/'
+        link: 'https://github.com/JosephL17/netflix-clone'
     },
     
 
