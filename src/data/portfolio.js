@@ -8,13 +8,19 @@ export default [
     {
         title: 'Chatbot',
         imgUrl: './assets/Chatbot_project.png',
-        stack: ['Flask', 'Python', 'React', 'TailwindCSS', 'Llama3'],
+        stack: ['Flask', 'Python', 'React', 'Tailwind CSS', 'Llama3'],
         link: 'https://github.com/JosephL17/Chat_bot'
     },
     {
         title: 'Developer Portfolio',
         imgUrl: './assets/Portfolio.PNG',
-        stack: ['React', 'Tailwind', 'Vite', 'CSS'],
+        stack: ['React', 'Tailwind CSS', 'Vite',],
+        link: 'https://josephl17.github.io/'
+    },
+    {
+        title: 'Netflix Clone',
+        imgUrl: './assets/Netflix-Clone.png',
+        stack: ['React', 'Tailwind CSS', 'Vite', 'Django', 'PostgreSQL'],
         link: 'https://josephl17.github.io/'
     },
     
